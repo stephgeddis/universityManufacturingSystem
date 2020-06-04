@@ -26,11 +26,11 @@ There are 10 queries in this file in the following order:
 
 5. A list of project titles and number of employees assigned to each project (one query matching all the conditions) where:
 
-· More than 2 employees are assigned
+      · More than 2 employees are assigned
 
-· The employees are current
+      · The employees are current
 
-· The project is not internal
+      · The project is not internal
 
 6. A list of employees current or otherwise (EmployeeID, FirstName, LastName) who are not assigned to any projects
 
