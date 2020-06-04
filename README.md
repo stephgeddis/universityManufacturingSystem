@@ -12,11 +12,11 @@ There are 10 queries in this file in the following order:
 
 1. The EquipmentID, Make, Model, and Description of items of equipment that are (one query matching all the conditions):
 
-· Not currently marked as damaged
+      · Not currently marked as damaged
 
-· Not currently on loan
+      · Not currently on loan
 
-· Have the word ‘video’ in their Type or Description
+      · Have the word ‘video’ in their Type or Description
 
 2. The EmployeeID, FirstName, and LastName of all current Employees who have a contract due to finish in 2019
 
